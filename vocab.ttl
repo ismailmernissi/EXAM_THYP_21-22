@@ -27,7 +27,7 @@ News:Sujet a rdfs:Class ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-News:Tire a rdfs:Class ;
+News:Titre a rdfs:Class ;
     rdfs:label "titre" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
